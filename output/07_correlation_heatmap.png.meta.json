@@ -1,0 +1,1 @@
+{"caption": "Numeric Feature Correlation Matrix", "description": "Heatmap of Pearson correlations between all numeric features. Euribor3m, emp.var.rate, and nr.employed are very strongly correlated with each other."}
